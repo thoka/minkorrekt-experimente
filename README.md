@@ -15,9 +15,9 @@ the podcast. The time in brackets after a point shows where the episode talks
 about it. An HTML comment after each point names the exact time mark and the
 paragraph of our private transcript that the point comes from.
 
-## Not yet in the catalog
-
-- Tags by field of science. They come with a later version.
+The tags of each experiment come in three groups: what interests young
+people, the field of science, and the materials that one needs. A language
+model proposes them from the summary, and a person checks them over time.
 
 ## License
 
