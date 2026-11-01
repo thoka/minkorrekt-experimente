@@ -77,6 +77,13 @@ footer.site-footer p {
   background: #e4f2dc;
 }
 
+// The English Wikidata label of a material (step eIs5j52D): small and grey.
+.tag small[lang],
+.materials small[lang] {
+  color: #666;
+  font-size: 11px;
+}
+
 // The pictures of the material tags (step y7gX9xJu): a round thumbnail at the start
 // of the chip, and a legend page with each picture, its source, and its license.
 .tag-pic {
